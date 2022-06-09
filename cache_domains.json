@@ -68,6 +68,11 @@
 			"domain_files": ["pathofexile.txt"]
 		},
 		{
+			"name": "pornhub",
+			"description": "CDN for guild wars, HoT",
+			"domain_files": ["pornhub.txt"]
+		},
+		{
 			"name": "renegadex",
 			"description": "CDN for Renegade X",
 			"domain_files": ["renegadex.txt"]
@@ -81,12 +86,7 @@
 			"name": "rockstar",
 			"description": "CDN for rockstar games",
 			"domain_files": ["rockstar.txt"]
-		},
-		{
-			"name": "pornhum",
-			"description": "CDN for guild wars, HoT",
-			"domain_files": ["pornhum.txt"]
-		},
+		},		
 		{
 			"name": "sony",
 			"description": "CDN for sony / playstation",
