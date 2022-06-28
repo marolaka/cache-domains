@@ -134,7 +134,7 @@
 		},
 		{
 			"name": "youtube",
-			"description": "CDN for xboxlive",
+			"description": "Profitez des vidéos et de la musique que vous aimez",
 			"domain_files": ["youtube.txt"]
 		}
 	]
